@@ -1,6 +1,5 @@
 import 'node-libs-react-native/globals';
-// import 'intl-pluralrules';
-import 'react-native-url-polyfill/auto';
+import 'intl-pluralrules';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import { MMSDK } from './web3/metamask';
